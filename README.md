@@ -1,10 +1,13 @@
 
 Hello, I'm Tyler Riehl welcome to my repository!
 
-I'm interested in Front end development and am currently learning more backend environments to become a more well rounded developer.
+Professional Summary
 
-I'm currently learning React
+Dynamic Full Stack Web Developer wit h proven exper tise in Ruby on Rails and PostgreSQL, contributing to a
+star tup's growt h by developing scalable, customer-facing features. Successfully enhanced user experience
+t hrough intuitive Figma designs, while maintaining high code quality, and optimizing per formance. Strong ability
+to rapidly acquire new skills and technologies, driving impactful results.
 
-I'm looking to make a career move into becoming a front end engineer, currently an aerospace engineer that's done everything from software to mechanical hardware testing.
+I am currently working on building and deploying my own ruby on rails application using DaisyUI & Tailwind
 
 Please send me an email at Tyler.Riehl16@gmail.com 
